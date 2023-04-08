@@ -1,2 +1,0 @@
-# Pat-McCue
-Portfolio Projects
